@@ -385,7 +385,7 @@ body {
     font-family: "Roboto", sans-serif;
     font-size: 0.875rem;
     line-height: 1.42857143;
-    color: #3A0CA3;
+    color: #15053a;
     background: #f7f7f7 !important;
 }
 
@@ -417,7 +417,7 @@ body {
 }
 
 input[type=text] {
-    color: #3A0CA3 !important;
+    color: #15053a !important;
 }
 
 /* Medium devices (desktops)
@@ -476,7 +476,7 @@ input[type=text] {
     text-align: left;
     line-height: 24px;
     padding: 0 3px;
-    color: #3A0CA3;
+    color: #15053a;
 }
 
 .left_footer a:hover {
@@ -535,7 +535,7 @@ header {
 .srch10 {
     background: #f7f7f7 !important;
     border: 0 !important;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
 }
 
 i.icon1 {
@@ -579,7 +579,7 @@ i.icon1 {
 
 .option_links:hover,
 .option_links:focus {
-    color: #3A0CA3 !important;
+    color: #15053a !important;
 }
 
 .noti_count {
@@ -624,7 +624,7 @@ i.icon1 {
 
 .upload_btn:hover {
     color: #fff !important;
-    background: #3A0CA3;
+    background: #15053a;
 }
 
 .left_title {
@@ -702,7 +702,7 @@ i.icon1 {
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
     margin-bottom: 5px;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: left;
     position: relative;
 }
@@ -720,7 +720,7 @@ i.icon1 {
     font-size: 14px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     margin-top: 15px;
     display: block;
     text-align: left;
@@ -738,7 +738,7 @@ i.icon1 {
 }
 
 .ui.dropdown .menu>.channel_item:hover {
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     background: #ffecec !important;
 }
 
@@ -779,19 +779,19 @@ i.icon1 {
     padding: 15px 0;
     background: #ffecec;
     font-size: 14px;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
 }
 
 .vbm_btn:hover {
-    background: #3A0CA3;
+    background: #15053a;
     color: #fff !important;
 }
 
 /*--- Index Homepage ---*/
 .footer {
-    background: #3A0CA3;
+    background: #15053a;
     width: 100%;
     padding: 0;
     float: left;
@@ -924,7 +924,7 @@ i.icon1 {
 
 .lng_btn .ui.dropdown .menu>.item {
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
 }
 
 /*--- Index Homepage ---*/
@@ -954,7 +954,7 @@ i.icon1 {
     font-size: 18px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: left;
     float: left;
     margin-bottom: 24px;
@@ -974,7 +974,7 @@ i.icon1 {
     height: 30px !important;
     width: 30px !important;
     padding: 4px 0 !important;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     background: #fff !important;
     border-radius: 3px;
     border: 1px solid #e5e5e5 !important;
@@ -1105,20 +1105,20 @@ i.icon1 {
 .spinner .bounce1 {
     -webkit-animation-delay: -0.32s;
     animation-delay: -0.32s;
-    background-color: #3A0CA3;
+    background-color: #15053a;
 }
 
 .spinner .bounce2 {
     -webkit-animation-delay: -0.16s;
     animation-delay: -0.16s;
-    background-color: #3A0CA3;
+    background-color: #15053a;
     opacity: 0.702;
 }
 
 .spinner .bounce3 {
     -webkit-animation-delay: -0.12s;
     animation-delay: -0.12s;
-    background-color: #3A0CA3;
+    background-color: #15053a;
     opacity: 0.4;
 }
 
@@ -1213,7 +1213,7 @@ i.icon1 {
     margin-bottom: 8px !important;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
 }
 
 .card_dash {
@@ -1241,7 +1241,7 @@ i.icon1 {
 
 .card_dash_left h5 {
     font-size: 16px;
-    color: #3A0CA3;
+    color: #15053a;
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     margin-bottom: 15px;
@@ -1250,7 +1250,7 @@ i.icon1 {
 
 .card_dash_left h2 {
     font-size: 24px;
-    color: #3A0CA3;
+    color: #15053a;
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     margin-bottom: 15px;
@@ -1298,7 +1298,7 @@ i.icon1 {
 
 .create_btn_dash:hover {
     color: #fff;
-    background: #3A0CA3;
+    background: #15053a;
 }
 
 .card_dash1 {
@@ -1323,7 +1323,7 @@ i.icon1 {
 
 .card_dash_left1 h1 {
     font-size: 24px;
-    color: #3A0CA3;
+    color: #15053a;
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     margin-bottom: 0 !important;
@@ -1382,7 +1382,7 @@ i.icon1 {
     font-size: 16px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: left;
     margin-bottom: 7px;
     line-height: 24px;
@@ -1417,12 +1417,12 @@ i.icon1 {
 }
 
 .cr1fot a {
-    color: #3A0CA3;
+    color: #15053a;
     font-weight: 500;
 }
 
 .cr1fot a:hover {
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     text-decoration: underline !important;
 }
 
@@ -1431,7 +1431,7 @@ i.icon1 {
     font-size: 18px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: right;
 }
 
@@ -1472,7 +1472,7 @@ i.icon1 {
 }
 
 .eps_dots a:hover {
-    color: #3A0CA3 !important;
+    color: #15053a !important;
 }
 
 .more_dropdown {
@@ -1508,7 +1508,7 @@ i.icon1 {
 }
 
 .dropdown-content span:hover {
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     background-color: #ffecec;
 }
 
@@ -1517,7 +1517,7 @@ i.icon1 {
 }
 
 .more_dropdown:hover .eps_dots {
-    background-color: #3A0CA3;
+    background-color: #15053a;
 }
 
 .course-overlay {
@@ -1547,7 +1547,7 @@ i.icon1 {
     height: 30px !important;
     width: 30px !important;
     padding: 4px 0 !important;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     background: #fff !important;
     border-radius: 3px;
     border: 1px solid #e5e5e5 !important;
@@ -1563,7 +1563,7 @@ i.icon1 {
     text-align: center;
     height: 30px !important;
     width: 30px !important;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     background: #fff !important;
     border-radius: 3px;
     border: 1px solid #e5e5e5 !important;
@@ -1615,7 +1615,7 @@ i.icon1 {
     font-size: 16px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: left;
     margin-bottom: 0;
     line-height: 26px;
@@ -1627,7 +1627,7 @@ i.icon1 {
     font-size: 14px;
     font-family: 'Roboto', sans-serif;
     display: block;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: left;
     line-height: 24px;
     font-weight: 500;
@@ -1635,7 +1635,7 @@ i.icon1 {
 }
 
 .cr1fot50:hover {
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     text-decoration: underline !important;
 }
 
@@ -1656,7 +1656,7 @@ i.icon1 {
     height: 30px !important;
     width: 30px !important;
     padding: 4px 0 !important;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     background: #fff !important;
     border-radius: 3px;
     border: 1px solid #e5e5e5 !important;
@@ -1672,7 +1672,7 @@ i.icon1 {
     text-align: center;
     height: 30px !important;
     width: 30px !important;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     background: #fff !important;
     border-radius: 3px;
     border: 1px solid #e5e5e5 !important;
@@ -1722,7 +1722,7 @@ i.icon1 {
     font-size: 24px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: left;
     margin-bottom: 0;
     line-height: 24px;
@@ -1743,7 +1743,7 @@ i.icon1 {
 .per_text {
     margin-left: 5px;
     font-size: 12px;
-    color: #3A0CA3;
+    color: #15053a;
     font-weight: 500;
 }
 
@@ -1753,7 +1753,7 @@ i.icon1 {
     font-size: 14px;
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: left;
     border-bottom: 1px dashed #efefef;
 }
@@ -1769,7 +1769,7 @@ i.icon1 {
 
 .new_links10:hover {
     text-decoration: underline !important;
-    color: #3A0CA3;
+    color: #15053a;
 }
 
 .upcming_card {
@@ -1788,12 +1788,12 @@ i.icon1 {
     font-size: 14px;
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: left;
 }
 
 .delete_link10:hover {
-    color: #3A0CA3;
+    color: #15053a;
     text-decoration: underline !important;
 }
 
@@ -1856,7 +1856,7 @@ i.icon1 {
     font-size: 14px;
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
-    color: #3A0CA3;
+    color: #15053a;
     border-radius: 3px;
 }
 
@@ -1887,7 +1887,7 @@ table.table.ucp-table {
     padding: 14px !important;
     border-radius: 3px;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
 }
 
 .ucp-table thead tr th:first-child {
@@ -1895,7 +1895,7 @@ table.table.ucp-table {
 }
 
 .ucp-table thead tr th {
-    color: #3A0CA3;
+    color: #15053a;
     font-size: 14px;
     background-color: #ffecec;
 }
@@ -1905,13 +1905,13 @@ table.table.ucp-table {
     padding: 14px !important;
     border-radius: 3px;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
 }
 
 .ucp-table tfoot td {
     color: #fff;
     font-size: 14px;
-    background-color: #3A0CA3;
+    background-color: #15053a;
     padding: .75rem !important;
 }
 
@@ -2013,7 +2013,7 @@ table {
 .panel-title a {
     font-size: 16px;
     font-weight: 500;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     font-family: 'Roboto', sans-serif;
     padding: 15px 0;
     display: block;
@@ -2045,7 +2045,7 @@ table {
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
     margin-bottom: 10px !important;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: left;
     display: block;
 }
@@ -2082,7 +2082,7 @@ table {
     min-width: 100% !important;
     padding: .78571429em 2.1em 0.785714em 2em !important;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
 }
 
 .ui.selection.dropdown.cntry152 {
@@ -2094,7 +2094,7 @@ table {
 .srch_explore {
     background: #fff !important;
     border: 1px solid #e5e5e5 !important;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     box-shadow: inset 0px 1px 4px rgba(0, 0, 0, 0.1) !important;
 }
 
@@ -2102,14 +2102,14 @@ table {
     min-width: 100% !important;
     padding: .78571429em 2.1em 0.785714em 2em !important;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
 }
 
 .ui.selection.active.dropdown.cntry152 {
     border-top-left-radius: 1.5rem !important;
     border-top-right-radius: 1.5rem !important;
     box-shadow: none !important;
-    border: 1px solid #3A0CA3 !important;
+    border: 1px solid #15053a !important;
 }
 
 .datepicker--cell.-selected-,
@@ -2135,7 +2135,7 @@ table {
     font-family: 'Roboto', sans-serif !important;
     font-size: 14px !important;
     font-weight: 400 !important;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
 }
 
 .discount_btn {
@@ -2153,7 +2153,7 @@ table {
 
 .discount_btn:hover {
     color: #fff;
-    background: #3A0CA3;
+    background: #15053a;
 }
 
 .promotion_tab {
@@ -2174,7 +2174,7 @@ table {
     font-size: 18px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: center;
     margin-bottom: 20px;
     line-height: 26px;
@@ -2205,7 +2205,7 @@ table {
 
 .plan_link_btn:hover {
     color: #fff;
-    background: #3A0CA3;
+    background: #15053a;
 }
 
 /* --- Analyics Dashboard Page --- */
@@ -2222,7 +2222,7 @@ table {
     font-size: 24px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: left;
     line-height: 26px;
     margin-top: 0;
@@ -2255,7 +2255,7 @@ table {
     font-size: 18px !important;
     font-weight: 500 !important;
     font-family: 'Roboto', sans-serif !important;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
 }
 
 .type-name {
@@ -2268,7 +2268,7 @@ table {
 
 .analysis_card .nav-tabs .nav-item.show .nav-link,
 .analysis_card .nav-tabs .nav-link.active {
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     background-color: #fff !important;
     border-color: transparent #efefef #fff !important;
     border: 1px solid;
@@ -2284,7 +2284,7 @@ table {
 }
 
 .analysis_card .nav-link:hover {
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     background-color: #fff !important;
     border-color: transparent #efefef #fff !important;
     border: 1px solid;
@@ -2299,7 +2299,7 @@ table {
     font-size: 14px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: left;
     line-height: 26px;
     margin-bottom: 0;
@@ -2323,7 +2323,7 @@ table {
     font-size: 16px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: left;
     line-height: 26px;
     margin-bottom: 2px;
@@ -2425,7 +2425,7 @@ table {
 
 #add-course-tab .step-steps>li.active>a>.step-name,
 #add-course-tab .step-steps>li.done>a>.step-name {
-    color: #3A0CA3;
+    color: #15053a;
 }
 
 #add-course-tab .step-steps>li.done:before {
@@ -2505,7 +2505,7 @@ table {
     border: 0;
     padding: 0;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     font-weight: 400;
     position: relative;
     text-align: left;
@@ -2655,7 +2655,7 @@ table {
 
 .course_des_ttle li a {
     font-size: 20px;
-    color: #3A0CA3;
+    color: #15053a;
 }
 
 .ui.form.swdh339 textarea {
@@ -2681,7 +2681,7 @@ table {
 
 .steps_btn:hover {
     color: #fff !important;
-    background: #3A0CA3 !important;
+    background: #15053a !important;
 }
 
 .steps_btn:focus {
@@ -2698,7 +2698,7 @@ table {
     font-size: 16px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: left;
     margin-bottom: 15px;
 }
@@ -2750,7 +2750,7 @@ table {
     font-size: 18px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     line-height: 26px;
     text-align: left;
     margin-bottom: 15px;
@@ -2770,7 +2770,7 @@ table {
     font-size: 18px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     line-height: 26px;
     text-align: left;
     margin-bottom: 0;
@@ -2785,7 +2785,7 @@ table {
     border: 0;
     padding: 0;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     font-weight: 400;
     position: relative;
     text-align: left;
@@ -2911,7 +2911,7 @@ table {
 
 .part_btn_save:hover {
     color: #fff;
-    background: #3A0CA3;
+    background: #15053a;
 }
 
 .ui.checkbox input:checked~.box:before,
@@ -2968,7 +2968,7 @@ table {
     font-size: 16px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: left;
     margin-bottom: 15px;
 }
@@ -2994,7 +2994,7 @@ table {
 
 .save_content_btn:hover {
     color: #fff;
-    background: #3A0CA3;
+    background: #15053a;
 }
 
 /* --- Messages Page --- */
@@ -3085,7 +3085,7 @@ i.icon8 {
 }
 
 .user-status-title {
-    color: #3A0CA3;
+    color: #15053a;
     font-size: 16px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
@@ -3387,7 +3387,7 @@ i.icon8 {
 
 .mf-field .add_msg:hover {
     color: #fff;
-    background: #3A0CA3;
+    background: #15053a;
 }
 
 .add_photo {
@@ -3404,7 +3404,7 @@ i.icon8 {
 
 .add_photo:hover {
     color: #fff;
-    background: #3A0CA3;
+    background: #15053a;
 }
 
 .all__noti5 {
@@ -3435,7 +3435,7 @@ i.icon8 {
 
 .setting_noti:hover {
     color: #fff !important;
-    background: #3A0CA3;
+    background: #15053a;
 }
 
 /* --- My Certificates --- */
@@ -3470,7 +3470,7 @@ i.icon8 {
     font-family: 'Roboto', sans-serif;
     text-align: left;
     margin-bottom: 20px;
-    color: #3A0CA3;
+    color: #15053a;
 }
 
 .total_rating {
@@ -3490,7 +3490,7 @@ i.icon8 {
     font-family: 'Roboto', sans-serif;
     text-align: left;
     margin-bottom: 0;
-    color: #3A0CA3;
+    color: #15053a;
     margin-right: 10px;
     line-height: 22px;
 }
@@ -3555,7 +3555,7 @@ i.icon8 {
     font-family: 'Roboto', sans-serif;
     text-align: left;
     margin-bottom: 0;
-    color: #3A0CA3;
+    color: #15053a;
     margin-left: 10px;
     line-height: 22px;
 }
@@ -3618,7 +3618,7 @@ i.icon8 {
     font-family: 'Roboto', sans-serif;
     text-align: left;
     margin-bottom: 0;
-    color: #3A0CA3;
+    color: #15053a;
     float: left;
 }
 
@@ -3633,7 +3633,7 @@ i.icon8 {
     font-size: 12px;
     font-weight: 400;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     padding-left: 15px;
     padding-right: 40px;
     width: 100%;
@@ -3655,7 +3655,7 @@ i.icon8 {
 }
 
 .rvsrch_btn:hover {
-    background: #3A0CA3;
+    background: #15053a;
     color: #fff;
 }
 
@@ -3693,7 +3693,7 @@ i.icon8 {
     font-size: 16px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     text-align: left;
     margin-bottom: 0;
 }
@@ -3726,7 +3726,7 @@ i.icon8 {
     font-size: 14px;
     font-weight: 400;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     line-height: 24px;
     margin-right: 10px;
 }
@@ -3743,7 +3743,7 @@ i.icon8 {
     text-align: left;
     line-height: 24px;
     margin-bottom: 0;
-    color: #3A0CA3;
+    color: #15053a;
     border-bottom: 1px solid #efefef;
     padding: 15px 20px;
     display: block;
@@ -3753,7 +3753,7 @@ i.icon8 {
 
 .earning_steps {
     border-radius: 3px;
-    background: #3A0CA3;
+    background: #15053a;
     text-align: center;
     padding: 30px;
     margin-top: 30px;
@@ -3793,7 +3793,7 @@ i.icon8 {
     font-size: 16px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     border-bottom: 1px solid #efefef;
     padding: 1.2rem 2rem;
     float: left;
@@ -3857,7 +3857,7 @@ i.icon8 {
     border: 1px solid #efefef !important;
     font-size: 14px;
     font-weight: 400;
-    color: #3A0CA3;
+    color: #15053a;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -3882,7 +3882,7 @@ i.icon8 {
 .date_list152 a:last-child {
     font-weight: 500;
     cursor: default;
-    color: #3A0CA3;
+    color: #15053a;
     pointer-events: none;
 }
 
@@ -3955,7 +3955,7 @@ i.icon8 {
 }
 
 .payout__btn:hover {
-    background: #3A0CA3;
+    background: #15053a;
     color: #fff !important;
 }
 
@@ -4003,7 +4003,7 @@ i.icon8 {
 }
 
 .js-earnings__instructor-funds-wrapper {
-    color: #3A0CA3;
+    color: #15053a;
 }
 
 .js-earnings__earnings-wrapper {
@@ -4033,7 +4033,7 @@ i.icon8 {
 
 .st_download_btn:hover {
     color: #fff;
-    background: #3A0CA3;
+    background: #15053a;
 }
 
 .ui.selection.invoice-dropdown {
@@ -4069,7 +4069,7 @@ i.icon8 {
 
 .more_items_14.active {
     color: #fff;
-    background: #3A0CA3;
+    background: #15053a;
 }
 
 .verification_content {
@@ -4086,7 +4086,7 @@ i.icon8 {
     font-weight: 600;
     font-family: 'Roboto', sans-serif;
     text-align: center;
-    color: #3A0CA3;
+    color: #15053a;
     margin-top: 40px !important;
     margin-bottom: 24px !important;
 }
@@ -4185,7 +4185,7 @@ i.icon8 {
 
 .verify_submit_btn:hover {
     color: #fff;
-    background: #3A0CA3;
+    background: #15053a;
 }
 
 .mp-30 {
@@ -4205,7 +4205,7 @@ i.icon8 {
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
     border-radius: 3px;
-    color: #3A0CA3;
+    color: #15053a;
     padding: 15px;
     position: relative;
     display: flex;

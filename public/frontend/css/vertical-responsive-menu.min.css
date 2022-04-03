@@ -100,7 +100,7 @@
 }
 
 .menu--subitens__opened .menu--link {
-	color: #3A0CA3;
+	color: #15053a;
 }
 
 .menu--subitens__opened .sub_menu { 
@@ -112,7 +112,7 @@
     overflow: hidden;
     font-size: 14px;
     text-decoration: none;
-    color: #3A0CA3;
+    color: #15053a;
     font-weight: 500;
     white-space: nowrap;
     cursor: pointer;
@@ -153,7 +153,7 @@
 	font-size: 14px;
 	font-family: 'Roboto', sans-serif;
 	font-weight: 400;
-	color: #3A0CA3;
+	color: #15053a;
 	text-decoration: none;
 }
 

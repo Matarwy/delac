@@ -99,7 +99,7 @@ $(function () {
           ]
         },
         tooltips: {
-          titleFontColor: "#3A0CA3",
+          titleFontColor: "#15053a",
           bodyFontColor: "#686f7a",
           titleFontSize: 12,
           bodyFontSize: 14,
@@ -278,7 +278,7 @@ $(function () {
           responsive: true,
           intersect: false,
           enabled: true,
-          titleFontColor: "#3A0CA3",
+          titleFontColor: "#15053a",
           bodyFontColor: "#686f7a",
           titleFontSize: 12,
           bodyFontSize: 14,
@@ -798,7 +798,7 @@ $(function () {
           ]
         },
         tooltips: {
-          titleFontColor: "#3A0CA3",
+          titleFontColor: "#15053a",
           bodyFontColor: "#686f7a",
           titleFontSize: 12,
           bodyFontSize: 14,
@@ -1081,7 +1081,7 @@ $(function () {
 
         tooltips: {
           mode: "index",
-          titleFontColor: "#3A0CA3",
+          titleFontColor: "#15053a",
           bodyFontColor: "#686f7a",
           titleFontSize: 12,
           bodyFontSize: 14,
@@ -1349,7 +1349,7 @@ $(function () {
         tooltips: {
           mode: "index",
           intersect: false,
-          titleFontColor: "#3A0CA3",
+          titleFontColor: "#15053a",
           bodyFontColor: "#686f7a",
           titleFontSize: 12,
           bodyFontSize: 15,
@@ -1645,7 +1645,7 @@ if (barX !== null) {
         ]
       },
       tooltips: {
-        titleFontColor: "#3A0CA3",
+        titleFontColor: "#15053a",
         bodyFontColor: "#686f7a",
         titleFontSize: 12,
         bodyFontSize: 12,

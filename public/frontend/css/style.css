@@ -385,7 +385,7 @@ body {
     font-family: "Roboto", sans-serif;
     font-size: 0.875rem;
     line-height: 1.42857143;
-    color: #3A0CA3;
+    color: #15053a;
     background: #f7f7f7 !important;
 }
 
@@ -399,7 +399,7 @@ body {
 }
 
 input[type=text] {
-    color: #3A0CA3 !important;
+    color: #15053a !important;
 }
 
 /* --- Preloader --- */
@@ -460,7 +460,7 @@ input[type=text] {
     text-align: left;
     line-height: 24px;
     padding: 0 3px;
-    color: #3A0CA3;
+    color: #15053a;
 }
 
 .left_footer a:hover {
@@ -515,7 +515,7 @@ header {
 .srch10 {
     background: #f7f7f7 !important;
     border: 0 !important;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
 }
 
 i.icon1 {
@@ -559,7 +559,7 @@ i.icon1 {
 
 .option_links:hover,
 .option_links:focus {
-    color: #3A0CA3 !important;
+    color: #15053a !important;
 }
 
 .noti_count {
@@ -609,7 +609,7 @@ i.icon1 {
 
 .upload_btn:hover {
     color: #fff !important;
-    background: #3A0CA3;
+    background: #15053a;
 }
 
 .left_title {
@@ -691,7 +691,7 @@ i.icon1 {
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
     margin-bottom: 5px;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: left;
     position: relative;
 }
@@ -709,7 +709,7 @@ i.icon1 {
     font-size: 14px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     margin-top: 15px;
     display: block;
     text-align: left;
@@ -727,7 +727,7 @@ i.icon1 {
 }
 
 .ui.dropdown .menu>.channel_item:hover {
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     background: #ffecec !important;
 }
 
@@ -768,13 +768,13 @@ i.icon1 {
     padding: 15px 0;
     background: #ffecec;
     font-size: 14px;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
 }
 
 .vbm_btn:hover {
-    background: #3A0CA3;
+    background: #15053a;
     color: #fff !important;
 }
 
@@ -820,7 +820,7 @@ i.icon1 {
     font-size: 18px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: left;
     float: left;
     margin-bottom: 20px;
@@ -879,7 +879,7 @@ i.icon1 {
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
     text-align: center;
-    color: #3A0CA3;
+    color: #15053a;
     text-overflow: ellipsis;
     white-space: nowrap;
     overflow: hidden;
@@ -918,7 +918,7 @@ i.icon1 {
     height: 30px !important;
     width: 30px !important;
     padding: 4px 0 !important;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     background: #fff !important;
     border-radius: 3px;
     border: 1px solid #e5e5e5 !important;
@@ -934,7 +934,7 @@ i.icon1 {
     text-align: center;
     height: 30px !important;
     width: 30px !important;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     background: #fff !important;
     border-radius: 3px;
     border: 1px solid #e5e5e5 !important;
@@ -1085,7 +1085,7 @@ i.icon1 {
 
 .shrt-cart-btn {
     font-size: 18px;
-    color: #3A0CA3;
+    color: #15053a;
     background: transparent;
     padding: 0;
     border-radius: 3px;
@@ -1123,7 +1123,7 @@ i.icon1 {
     font-size: 16px;
     font-weight: 600;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: left;
     margin-bottom: 7px;
     line-height: 24px;
@@ -1144,7 +1144,7 @@ i.icon1 {
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
     color: #fff;
-    background: #3A0CA3;
+    background: #15053a;
     display: inline-block;
     padding: 5px 10px;
     text-transform: uppercase;
@@ -1171,12 +1171,12 @@ i.icon1 {
 }
 
 .cr1fot a {
-    color: #3A0CA3;
+    color: #15053a;
     font-weight: 500;
 }
 
 .cr1fot a:hover {
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     text-decoration: underline !important;
 }
 
@@ -1185,7 +1185,7 @@ i.icon1 {
     font-size: 18px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: right;
 }
 
@@ -1221,7 +1221,7 @@ i.icon1 {
 }
 
 .eps_dots a:hover {
-    color: #3A0CA3 !important;
+    color: #15053a !important;
 }
 
 .more_dropdown {
@@ -1257,7 +1257,7 @@ i.icon1 {
 }
 
 .dropdown-content span:hover {
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     background-color: #ffecec;
 }
 
@@ -1266,7 +1266,7 @@ i.icon1 {
 }
 
 .more_dropdown:hover .eps_dots {
-    background-color: #3A0CA3;
+    background-color: #15053a;
 }
 
 .course-overlay {
@@ -1383,7 +1383,7 @@ i.icon1 {
     height: 30px !important;
     width: 30px !important;
     padding: 4px 0 !important;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     background: #fff !important;
     border-radius: 3px;
     border: 1px solid #e5e5e5 !important;
@@ -1399,7 +1399,7 @@ i.icon1 {
     text-align: center;
     height: 30px !important;
     width: 30px !important;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     background: #fff !important;
     border-radius: 3px;
     border: 1px solid #e5e5e5 !important;
@@ -1431,7 +1431,7 @@ i.icon1 {
     height: 30px !important;
     width: 30px !important;
     padding: 4px 0 !important;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     background: #fff !important;
     border-radius: 3px;
     border: 1px solid #e5e5e5 !important;
@@ -1447,7 +1447,7 @@ i.icon1 {
     text-align: center;
     height: 30px !important;
     width: 30px !important;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     background: #fff !important;
     border-radius: 3px;
     border: 1px solid #e5e5e5 !important;
@@ -1494,7 +1494,7 @@ i.icon1 {
 .value_icon i {
     font-size: 36px;
     margin-right: 0;
-    color: #3A0CA3;
+    color: #15053a;
     background: #ffecec;
     border-radius: 3px;
     padding: 10px 6px;
@@ -1513,7 +1513,7 @@ i.icon1 {
     display: block;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: center;
 }
 
@@ -1558,7 +1558,7 @@ i.icon1 {
     font-size: 16px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     text-align: center;
     position: relative;
 }
@@ -1649,7 +1649,7 @@ i.icon1 {
 
 .sbbc145:hover {
     color: #fff;
-    background: #3A0CA3;
+    background: #15053a;
 }
 
 .sbbc146 {
@@ -1702,7 +1702,7 @@ i.icon1 {
     font-size: 14px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
 }
 
 .prfle12link:hover {
@@ -1775,7 +1775,7 @@ i.icon1 {
 
 .fcrse_3 h4 {
     font-size: 16px;
-    color: #3A0CA3;
+    color: #15053a;
     float: left;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
@@ -1805,7 +1805,7 @@ i.icon1 {
 
 .ct_item.active {
     font-weight: 500;
-    color: #3A0CA3;
+    color: #15053a;
 }
 
 .ct_item i {
@@ -1877,7 +1877,7 @@ i.icon1 {
 
 .live_link:hover {
     color: #fff;
-    background: #3A0CA3;
+    background: #15053a;
 }
 
 .fcrse_4 {
@@ -1931,7 +1931,7 @@ i.icon1 {
     font-size: 16px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     margin-top: 0;
     margin-bottom: 0 !important;
     margin-left: 15px;
@@ -1946,7 +1946,7 @@ i.icon1 {
     height: 30px !important;
     width: 30px !important;
     padding: 4px 0 !important;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     background: #fff !important;
     border-radius: 3px;
     border: 1px solid #e5e5e5 !important;
@@ -1962,7 +1962,7 @@ i.icon1 {
     text-align: center;
     height: 30px !important;
     width: 30px !important;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     background: #fff !important;
     border-radius: 3px;
     border: 1px solid #e5e5e5 !important;
@@ -1999,7 +1999,7 @@ i.icon1 {
 
 .strttech120 h4 {
     font-size: 18px;
-    color: #3A0CA3;
+    color: #15053a;
     font-weight: 600;
     font-family: 'Roboto', sans-serif;
     margin-bottom: 13px;
@@ -2015,7 +2015,7 @@ i.icon1 {
 }
 
 .footer {
-    background: #3A0CA3;
+    background: #15053a;
     width: 100%;
     padding: 0;
     float: left;
@@ -2148,7 +2148,7 @@ i.icon1 {
 
 .lng_btn .ui.dropdown .menu>.item {
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
 }
 
 /*--- All Live Streams ---*/
@@ -2185,20 +2185,20 @@ i.icon1 {
 .spinner .bounce1 {
     -webkit-animation-delay: -0.32s;
     animation-delay: -0.32s;
-    background-color: #3A0CA3;
+    background-color: #15053a;
 }
 
 .spinner .bounce2 {
     -webkit-animation-delay: -0.16s;
     animation-delay: -0.16s;
-    background-color: #3A0CA3;
+    background-color: #15053a;
     opacity: 0.702;
 }
 
 .spinner .bounce3 {
     -webkit-animation-delay: -0.12s;
     animation-delay: -0.12s;
-    background-color: #3A0CA3;
+    background-color: #15053a;
     opacity: 0.4;
 }
 
@@ -2298,7 +2298,7 @@ i.icon1 {
     height: 50px;
     padding: 10px 60px 10px 15px;
     border: 0;
-    color: #3A0CA3;
+    color: #15053a;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
     font-family: 'Roboto', sans-serif;
@@ -2319,7 +2319,7 @@ i.icon1 {
 }
 
 .btn_live:hover {
-    background: #3A0CA3;
+    background: #15053a;
     color: #fff;
 }
 
@@ -2352,7 +2352,7 @@ i.icon1 {
 .chat1 a {
     font-weight: 600;
     margin-right: 10px;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
 }
 
 .live_user_dt {
@@ -2380,7 +2380,7 @@ i.icon1 {
     font-size: 16px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     margin-top: 0;
     margin-bottom: 10px !important;
 }
@@ -2470,8 +2470,8 @@ i.icon1 {
 .slive_tabs .nav-item.show .nav-link,
 .slive_tabs .nav-link.active {
     color: #fff !important;
-    background-color: #3A0CA3 !important;
-    border-color: #3A0CA3 !important;
+    background-color: #15053a !important;
+    border-color: #15053a !important;
     border-radius: 3px;
 }
 
@@ -2510,7 +2510,7 @@ i.icon1 {
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
     text-align: center;
-    color: #3A0CA3;
+    color: #15053a;
     line-height: 24px;
     margin-bottom: 0;
 }
@@ -2527,7 +2527,7 @@ i.icon1 {
 
 .sf475 a {
     font-weight: 500;
-    color: #3A0CA3;
+    color: #15053a;
 }
 
 .sf475 a:hover {
@@ -2539,7 +2539,7 @@ i.icon1 {
     font-weight: 400;
     font-family: 'Roboto', sans-serif;
     margin-top: 30px;
-    color: #3A0CA3;
+    color: #15053a;
     line-height: 24px;
 }
 
@@ -2553,7 +2553,7 @@ i.icon1 {
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
     margin-bottom: 10px;
-    color: #3A0CA3;
+    color: #15053a;
     line-height: 24px;
 }
 
@@ -2585,7 +2585,7 @@ i.icon1 {
 }
 
 ._6tf7s:hover {
-    background: #3A0CA3;
+    background: #15053a;
     color: #fff;
 }
 
@@ -2603,7 +2603,7 @@ i.icon1 {
 }
 
 ._145d1:hover {
-    background: #3A0CA3;
+    background: #15053a;
     color: #fff;
 }
 
@@ -2617,7 +2617,7 @@ i.icon1 {
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
     text-align: left;
-    color: #3A0CA3;
+    color: #15053a;
     line-height: 24px;
     margin-bottom: 0;
 }
@@ -2642,7 +2642,7 @@ i.icon1 {
     font-size: 14px !important;
     font-weight: 500 !important;
     font-family: 'Roboto', sans-serif !important;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     margin-bottom: 0 !important;
 }
 
@@ -2651,12 +2651,12 @@ i.icon1 {
 .srch_explore {
     background: #fff !important;
     border: 1px solid #e5e5e5 !important;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     box-shadow: inset 0px 1px 4px rgba(0, 0, 0, 0.1) !important;
 }
 
 .srch_explore:focus {
-    border: 1px solid #3A0CA3 !important;
+    border: 1px solid #15053a !important;
     box-shadow: none !important;
 }
 
@@ -2692,7 +2692,7 @@ i.icon2 {
 ._215b01 {
     float: left;
     width: 100%;
-    background: #3A0CA3;
+    background: #15053a;
     padding: 30px 0;
 }
 
@@ -2875,7 +2875,7 @@ i.icon2 {
 
 .course_tabs .nav-tabs .nav-item.show .nav-link,
 .course_tabs .nav-tabs .nav-link.active {
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     background-color: transparent !important;
     border-color: inherit !important;
     border-top: 0 !important;
@@ -2895,7 +2895,7 @@ i.icon2 {
     border-right: 0 !important;
     border-top-left-radius: 0 !important;
     border-top-right-radius: 0 !important;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     font-weight: 500 !important;
     font-family: 'Roboto', sans-serif !important;
 }
@@ -2913,14 +2913,14 @@ i.icon2 {
     font-size: 16px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     margin-top: 0;
     display: block;
     margin-bottom: 10px !important;
 }
 
 ._df7852:hover {
-    color: #3A0CA3 !important;
+    color: #15053a !important;
 }
 
 ._215b31 {
@@ -2990,7 +2990,7 @@ i.icon2 {
     font-family: 'Roboto', sans-serif;
     text-align: left;
     margin-bottom: 15px;
-    color: #3A0CA3;
+    color: #15053a;
 }
 
 ._htg452 ul li {
@@ -3022,7 +3022,7 @@ i.icon2 {
     font-family: "Font Awesome 5 Free";
     font-weight: 900;
     font-size: 6px;
-    color: #3A0CA3;
+    color: #15053a;
     vertical-align: bottom;
     margin-right: 10px;
     line-height: 26px;
@@ -3033,7 +3033,7 @@ i.icon2 {
     font-size: 16px;
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: left;
 }
 
@@ -3065,7 +3065,7 @@ i.icon2 {
     font-family: 'Roboto', sans-serif;
     text-align: left;
     margin-bottom: 15px;
-    color: #3A0CA3;
+    color: #15053a;
 }
 
 ._abcd145 li {
@@ -3083,7 +3083,7 @@ i.icon2 {
 ._5f7g15 i {
     line-height: 28px;
     font-size: 14px;
-    color: #3A0CA3;
+    color: #15053a;
 }
 
 ._5f7g15 span {
@@ -3110,7 +3110,7 @@ i.icon2 {
     font-family: 'Roboto', sans-serif;
     text-align: left;
     margin-bottom: 15px;
-    color: #3A0CA3;
+    color: #15053a;
     float: left;
 }
 
@@ -3135,7 +3135,7 @@ i.icon2 {
     font-family: 'Roboto', sans-serif;
     text-align: left;
     margin-bottom: 0;
-    color: #3A0CA3;
+    color: #15053a;
     cursor: pointer;
 }
 
@@ -3197,7 +3197,7 @@ i.icon2 {
     font-size: 16px;
     padding-left: 8px;
     padding-right: 10px;
-    color: #3A0CA3;
+    color: #15053a;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
 }
@@ -3301,7 +3301,7 @@ i.icon2 {
     font-size: 14px;
     font-weight: 400;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
 }
 
 .ui-accordion-content .preview-text:hover {
@@ -3318,7 +3318,7 @@ i.icon2 {
     font-size: 14px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: center;
     padding: 15px 0;
 }
@@ -3326,7 +3326,7 @@ i.icon2 {
 .btn1458:hover {
     border: 1px solid #e8e9eb;
     background: #e8e9eb;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
 }
 
 .student_reviews {
@@ -3351,7 +3351,7 @@ i.icon2 {
     font-family: 'Roboto', sans-serif;
     text-align: left;
     margin-bottom: 20px;
-    color: #3A0CA3;
+    color: #15053a;
 }
 
 .total_rating {
@@ -3371,7 +3371,7 @@ i.icon2 {
     font-family: 'Roboto', sans-serif;
     text-align: left;
     margin-bottom: 0;
-    color: #3A0CA3;
+    color: #15053a;
     margin-right: 10px;
     line-height: 22px;
 }
@@ -3436,7 +3436,7 @@ i.icon2 {
     font-family: 'Roboto', sans-serif;
     text-align: left;
     margin-bottom: 0;
-    color: #3A0CA3;
+    color: #15053a;
     margin-left: 10px;
     line-height: 22px;
 }
@@ -3499,7 +3499,7 @@ i.icon2 {
     font-family: 'Roboto', sans-serif;
     text-align: left;
     margin-bottom: 0;
-    color: #3A0CA3;
+    color: #15053a;
     float: left;
 }
 
@@ -3514,7 +3514,7 @@ i.icon2 {
     font-size: 12px;
     font-weight: 400;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     padding-left: 15px;
     padding-right: 40px;
     width: 100%;
@@ -3536,7 +3536,7 @@ i.icon2 {
 }
 
 .rvsrch_btn:hover {
-    background: #3A0CA3;
+    background: #15053a;
     color: #fff;
 }
 
@@ -3574,7 +3574,7 @@ i.icon2 {
     font-size: 16px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     text-align: left;
     margin-bottom: 0;
 }
@@ -3607,7 +3607,7 @@ i.icon2 {
     font-size: 14px;
     font-weight: 400;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     line-height: 24px;
     margin-right: 10px;
 }
@@ -3623,7 +3623,7 @@ i.icon2 {
     font-size: 14px;
     font-weight: 400;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
 }
 
 .radio--group-inline-container .radio-item {
@@ -3679,7 +3679,7 @@ i.icon2 {
     font-weight: 400;
     font-family: 'Roboto', sans-serif;
     line-height: 12px;
-    color: #3A0CA3;
+    color: #15053a;
     margin-bottom: 0;
     cursor: pointer;
 }
@@ -3688,7 +3688,7 @@ i.icon2 {
     font-size: 13px;
     font-weight: 400;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     line-height: 24px;
     margin-left: 5px;
 }
@@ -3725,7 +3725,7 @@ i.icon2 {
 ._216b01 {
     float: left;
     width: 100%;
-    background: #3A0CA3;
+    background: #15053a;
     padding: 30px 0;
 }
 
@@ -3913,7 +3913,7 @@ i.icon2 {
     font-size: 14px;
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
-    color: #3A0CA3;
+    color: #15053a;
     padding: 12px;
     border-radius: 3px;
     background: #f9f9f9;
@@ -3935,7 +3935,7 @@ i.icon2 {
 
 .cmnt-btn:hover {
     color: #fff;
-    background: #3A0CA3;
+    background: #15053a;
 }
 
 .rpt101 {
@@ -3951,7 +3951,7 @@ i.icon2 {
     font-size: 14px;
     font-weight: 400;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     line-height: 24px;
     margin-left: 5px;
 }
@@ -3982,7 +3982,7 @@ i.icon2 {
     font-size: 16px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     margin-top: 40px;
 }
 
@@ -4005,7 +4005,7 @@ i.icon2 {
     font-size: 16px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     line-height: 24px;
     text-align: left;
     margin-top: 50px !important;
@@ -4040,7 +4040,7 @@ i.icon2 {
 
 .ht_title {
     font-size: 14px;
-    color: #3A0CA3;
+    color: #15053a;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
     text-align: left;
@@ -4050,7 +4050,7 @@ i.icon2 {
 .ht_clr {
     float: right;
     font-size: 14px;
-    color: #3A0CA3;
+    color: #15053a;
     font-weight: 400;
     font-family: 'Roboto', sans-serif;
 }
@@ -4073,7 +4073,7 @@ i.icon2 {
 .hstry142 .nav-pills .nav-link {
     border-radius: 3px;
     font-size: 14px;
-    color: #3A0CA3;
+    color: #15053a;
     font-weight: 400;
     font-family: 'Roboto', sans-serif;
     padding: 0.8rem 1.5rem;
@@ -4168,7 +4168,7 @@ a.rmv-btn {
 
 a.rmv-btn:hover {
     color: #fff !important;
-    background: #3A0CA3;
+    background: #15053a;
 }
 
 a.rmv-btn i {
@@ -4183,7 +4183,7 @@ a.rmv-btn i {
     margin-bottom: 40px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
 }
 
 .setting_tabs .nav-pills .nav-link.active,
@@ -4200,7 +4200,7 @@ a.rmv-btn i {
     margin-top: 0;
     font-weight: 400;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
 }
 
 .account_setting {
@@ -4210,7 +4210,7 @@ a.rmv-btn i {
 .account_setting h4 {
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     font-size: 18px;
     text-align: left;
 }
@@ -4231,7 +4231,7 @@ a.rmv-btn i {
 .basic_ptitle h4 {
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     font-size: 16px;
     text-align: left;
 }
@@ -4280,7 +4280,7 @@ a.rmv-btn i {
 }
 
 .ui.form.swdh30 textarea:focus {
-    border: 1px solid #3A0CA3 !important;
+    border: 1px solid #15053a !important;
     box-shadow: none;
 }
 
@@ -4337,7 +4337,7 @@ a.rmv-btn i {
 
 .save_btn:hover {
     color: #fff !important;
-    background: #3A0CA3;
+    background: #15053a;
 }
 
 .ml5 {
@@ -4355,7 +4355,7 @@ a.rmv-btn i {
     border-top-left-radius: 1.5rem !important;
     border-top-right-radius: 1.5rem !important;
     box-shadow: none !important;
-    border: 1px solid #3A0CA3 !important;
+    border: 1px solid #15053a !important;
 }
 
 .billing-percentages-progress-bar {
@@ -4367,7 +4367,7 @@ a.rmv-btn i {
     display: flex;
     position: relative;
     font-size: 12px;
-    color: #3A0CA3;
+    color: #15053a;
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
 }
@@ -4487,7 +4487,7 @@ a.rmv-btn i {
     font-weight: 400;
     font-family: 'Roboto', sans-serif;
     line-height: 12px;
-    color: #3A0CA3;
+    color: #15053a;
     margin-bottom: 30px;
     cursor: pointer;
     padding: 15px 20px;
@@ -4504,7 +4504,7 @@ a.rmv-btn i {
 .pymnt_title h4 {
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     font-size: 16px;
     text-align: left;
 }
@@ -4522,7 +4522,7 @@ a.rmv-btn i {
 .pymnt_title span {
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     font-size: 14px;
     text-align: left;
     line-height: 26px;
@@ -4548,7 +4548,7 @@ a.rmv-btn i {
 
 .save_payout_btn:hover {
     color: #fff;
-    background: #3A0CA3;
+    background: #15053a;
 }
 
 .api_btn {
@@ -4566,16 +4566,16 @@ a.rmv-btn i {
 }
 
 .api_btn:hover {
-    border: 2px solid #3A0CA3;
+    border: 2px solid #15053a;
     color: #fff;
-    background: #3A0CA3;
+    background: #15053a;
 }
 
 .nt_apt {
     font-size: 14px;
     font-weight: 400;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: left;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -4591,7 +4591,7 @@ a.rmv-btn i {
 }
 
 .form-group1 label {
-    color: #3A0CA3;
+    color: #15053a;
     font-family: 'Roboto', sans-serif;
     font-size: 14px;
     font-weight: 500;
@@ -4626,7 +4626,7 @@ a.rmv-btn i {
     font-size: 16px;
     font-weight: 500;
     text-transform: none;
-    color: #3A0CA3;
+    color: #15053a;
     font-family: 'Roboto', sans-serif;
     margin-bottom: 5px;
     margin-top: 0;
@@ -4667,7 +4667,7 @@ a.rmv-btn i {
     font-size: 16px;
     font-weight: 500;
     text-transform: none;
-    color: #3A0CA3;
+    color: #15053a;
     font-family: 'Roboto', sans-serif;
     text-align: left;
     margin-bottom: 20px;
@@ -4730,7 +4730,7 @@ a.rmv-btn i {
     float: left;
     width: 100%;
     padding: 80px 0;
-    background: #3A0CA3;
+    background: #15053a;
     position: relative;
 }
 
@@ -4787,7 +4787,7 @@ a.rmv-btn i {
     box-shadow: none;
     flex: 1;
     float: left;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     width: 100%;
     font-size: 14px;
     line-height: 26px;
@@ -4809,7 +4809,7 @@ a.rmv-btn i {
 }
 
 .back_link a {
-    color: #3A0CA3;
+    color: #15053a;
     float: left;
     height: 38px;
     background: #fff;
@@ -4823,8 +4823,8 @@ a.rmv-btn i {
 
 .back_link a:hover {
     color: #fff !important;
-    background: #3A0CA3;
-    border: 1px solid #3A0CA3;
+    background: #15053a;
+    border: 1px solid #15053a;
 }
 
 .ml_item {
@@ -4865,13 +4865,13 @@ a.rmv-btn i {
 }
 
 .ttl121 .breadcrumb-item a {
-    color: #3A0CA3;
+    color: #15053a;
 }
 
 .ttl121 .breadcrumb-item {
     font-size: 14px;
     font-weight: 400;
-    color: #3A0CA3;
+    color: #15053a;
     font-family: 'Roboto', sans-serif;
     line-height: 24px;
 }
@@ -4887,7 +4887,7 @@ a.rmv-btn i {
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
     margin-top: 30px !important;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: left;
     line-height: 30px;
 }
@@ -4902,7 +4902,7 @@ a.rmv-btn i {
     font-family: 'Roboto', sans-serif;
     margin-bottom: 13px !important;
     text-align: left;
-    color: #3A0CA3;
+    color: #15053a;
     line-height: 26px;
 }
 
@@ -4912,12 +4912,12 @@ a.rmv-btn i {
     font-family: 'Roboto', sans-serif;
     text-align: left;
     line-height: 26px;
-    color: #3A0CA3;
+    color: #15053a;
 }
 
 .vew121:hover {
     text-decoration: underline !important;
-    color: #3A0CA3;
+    color: #15053a;
 }
 
 .ntt125 li {
@@ -4946,7 +4946,7 @@ a.rmv-btn i {
 
 .rqst152:hover {
     color: #fff !important;
-    background: #3A0CA3;
+    background: #15053a;
 }
 
 .vew120 p {
@@ -4999,7 +4999,7 @@ a.rmv-btn i {
     font-weight: 600;
     font-family: 'Roboto', sans-serif;
     margin-top: 30px !important;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: center;
     line-height: 30px;
 }
@@ -5016,7 +5016,7 @@ a.rmv-btn i {
     font-family: 'Roboto', sans-serif;
     margin-bottom: 17px !important;
     text-align: center;
-    color: #3A0CA3;
+    color: #15053a;
     line-height: 26px;
 }
 
@@ -5033,7 +5033,7 @@ a.rmv-btn i {
 
 .p__metric {
     font-size: 42px;
-    color: #3A0CA3;
+    color: #15053a;
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
     text-align: center;
@@ -5064,7 +5064,7 @@ a.rmv-btn i {
     margin-bottom: 13px;
     margin-top: 26px;
     text-align: center;
-    color: #3A0CA3;
+    color: #15053a;
 }
 
 .feature125 p {
@@ -5081,7 +5081,7 @@ a.rmv-btn i {
 .feature125 i {
     font-size: 40px;
     text-align: center;
-    color: #3A0CA3;
+    color: #15053a;
     margin-bottom: 0;
 }
 
@@ -5102,7 +5102,7 @@ a.rmv-btn i {
     font-family: 'Roboto', sans-serif;
     margin-bottom: 4px !important;
     text-align: left;
-    color: #3A0CA3;
+    color: #15053a;
     line-height: 26px;
 }
 
@@ -5164,7 +5164,7 @@ a.rmv-btn i {
 
 .crer_btn_link:hover {
     color: #fff !important;
-    background: #3A0CA3;
+    background: #15053a;
 }
 
 /* --- Our Blog Page --- */
@@ -5199,7 +5199,7 @@ a.rmv-btn i {
     font-family: 'Roboto', sans-serif;
     margin-bottom: 0 !important;
     text-align: left;
-    color: #3A0CA3;
+    color: #15053a;
     display: block;
     padding: 15px 20px;
 }
@@ -5244,7 +5244,7 @@ a.rmv-btn i {
 
 .category-item1.active {
     font-weight: 500;
-    color: #3A0CA3;
+    color: #15053a;
 }
 
 .category-item1:last-child {
@@ -5379,8 +5379,8 @@ a.rmv-btn i {
 }
 
 .main-p-pagination .pagination .page-link.active {
-    background: #3A0CA3;
-    border: 1px solid #3A0CA3;
+    background: #15053a;
+    border: 1px solid #15053a;
     color: #fff;
 }
 
@@ -5404,7 +5404,7 @@ a.rmv-btn i {
     font-size: 14px;
     font-weight: 400;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
 }
 
 .blog_link i {
@@ -5460,7 +5460,7 @@ a.rmv-btn i {
 
 .bp_left i {
     font-size: 24px;
-    color: #3A0CA3;
+    color: #15053a;
 }
 
 .bp_right {
@@ -5476,7 +5476,7 @@ a.rmv-btn i {
 
 .bp_right i {
     font-size: 24px;
-    color: #3A0CA3;
+    color: #15053a;
 }
 
 .kslu15 {
@@ -5486,7 +5486,7 @@ a.rmv-btn i {
 
 .prevlink {
     font-size: 16px;
-    color: #3A0CA3;
+    color: #15053a;
     font-weight: 500;
     margin-bottom: 10px;
 }
@@ -5523,7 +5523,7 @@ a.rmv-btn i {
 
 .prevlink1 {
     font-size: 16px;
-    color: #3A0CA3;
+    color: #15053a;
     font-weight: 500;
     margin-bottom: 10px;
 }
@@ -5565,7 +5565,7 @@ a.rmv-btn i {
     font-family: 'Roboto', sans-serif;
     margin-bottom: 4px !important;
     text-align: left;
-    color: #3A0CA3;
+    color: #15053a;
     line-height: 26px;
 }
 
@@ -5609,7 +5609,7 @@ a.rmv-btn i {
     font-size: 16px;
     font-weight: 600;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: left;
     margin-bottom: 7px;
     line-height: 26px;
@@ -5627,7 +5627,7 @@ a.rmv-btn i {
 }
 
 .cmpylink:hover {
-    color: #3A0CA3 !important;
+    color: #15053a !important;
 }
 
 .joblink {
@@ -5644,7 +5644,7 @@ a.rmv-btn i {
 
 .joblink:hover {
     color: #fff !important;
-    background: #3A0CA3;
+    background: #15053a;
 }
 
 .story125 iframe {
@@ -5661,7 +5661,7 @@ a.rmv-btn i {
     height: 30px !important;
     width: 30px !important;
     padding: 4px 0 !important;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     background: #fff !important;
     border-radius: 3px;
     border: 1px solid #e5e5e5 !important;
@@ -5677,7 +5677,7 @@ a.rmv-btn i {
     text-align: center;
     height: 30px !important;
     width: 30px !important;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     background: #fff !important;
     border-radius: 3px;
     border: 1px solid #e5e5e5 !important;
@@ -5725,7 +5725,7 @@ a.rmv-btn i {
     font-family: 'Roboto', sans-serif;
     margin-bottom: 17px !important;
     text-align: center;
-    color: #3A0CA3;
+    color: #15053a;
     line-height: 26px;
     margin-top: 29px;
 }
@@ -5745,7 +5745,7 @@ a.rmv-btn i {
     font-size: 14px;
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: left;
 }
 
@@ -5772,7 +5772,7 @@ a.rmv-btn i {
     font-family: 'Roboto', sans-serif;
     margin-bottom: 15px !important;
     text-align: center;
-    color: #3A0CA3;
+    color: #15053a;
     line-height: 26px;
 }
 
@@ -5799,7 +5799,7 @@ a.rmv-btn i {
 
 .career_lnk5:hover {
     color: #fff !important;
-    background: #3A0CA3;
+    background: #15053a;
 }
 
 .career_lnk6 {
@@ -5816,7 +5816,7 @@ a.rmv-btn i {
 
 .career_lnk6:hover {
     color: #fff !important;
-    background: #3A0CA3;
+    background: #15053a;
 }
 
 .apply_form {
@@ -5832,7 +5832,7 @@ a.rmv-btn i {
     font-family: 'Roboto', sans-serif;
     margin-bottom: 15px !important;
     text-align: left;
-    color: #3A0CA3;
+    color: #15053a;
     line-height: 26px;
 }
 
@@ -5840,7 +5840,7 @@ a.rmv-btn i {
     font-size: 16px;
     font-weight: 500;
     text-transform: none;
-    color: #3A0CA3;
+    color: #15053a;
     font-family: 'Roboto', sans-serif;
     margin-bottom: 5px;
     margin-top: 0;
@@ -5858,7 +5858,7 @@ a.rmv-btn i {
     font-family: 'Roboto', sans-serif;
     margin-bottom: 15px !important;
     text-align: left;
-    color: #3A0CA3;
+    color: #15053a;
     line-height: 26px;
 }
 
@@ -5866,7 +5866,7 @@ a.rmv-btn i {
     min-width: 100% !important;
     padding: .78571429em 2.1em 0.785714em 2em !important;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
 }
 
 /* --- Press Page --- */
@@ -5881,7 +5881,7 @@ a.rmv-btn i {
     font-family: 'Roboto', sans-serif;
     margin-bottom: 15px !important;
     text-align: left;
-    color: #3A0CA3;
+    color: #15053a;
     line-height: 26px;
 }
 
@@ -5917,7 +5917,7 @@ a.rmv-btn i {
     font-size: 16px;
     font-weight: 600;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
 }
 
 .press_dt_view {
@@ -5926,12 +5926,12 @@ a.rmv-btn i {
     font-size: 14px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     border-radius: 3px;
 }
 
 .press_dt_view:hover {
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     text-decoration: underline !important;
 }
 
@@ -5947,7 +5947,7 @@ a.rmv-btn i {
     font-size: 14px;
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
-    color: #3A0CA3;
+    color: #15053a;
 }
 
 .allnews_btn:hover {
@@ -5961,7 +5961,7 @@ a.rmv-btn i {
     font-size: 16px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     display: block;
 }
 
@@ -6013,7 +6013,7 @@ a.rmv-btn i {
 .ui.checkbox.mncheck .box,
 .ui.checkbox.mncheck label {
     font-family: 'Roboto', sans-serif !important;
-    color: #3A0CA3;
+    color: #15053a;
     line-height: 20px;
 }
 
@@ -6050,7 +6050,7 @@ a.rmv-btn i {
 
 .login-btn:hover {
     color: #fff;
-    background: #3A0CA3;
+    background: #15053a;
 }
 
 .sign_form h2 {
@@ -6058,7 +6058,7 @@ a.rmv-btn i {
     margin-bottom: 17px;
     font-weight: 600;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: center;
 }
 
@@ -6083,7 +6083,7 @@ a.rmv-btn i {
     font-weight: 400;
     text-align: center;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     padding: 50px 0;
     display: block;
     float: left;
@@ -6099,7 +6099,7 @@ a.rmv-btn i {
 }
 
 .sgntrm145 a:hover {
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     text-decoration: underline !important;
 }
 
@@ -6108,7 +6108,7 @@ a.rmv-btn i {
 }
 
 .hvsng145 a:hover {
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     text-decoration: underline !important;
 }
 
@@ -6194,7 +6194,7 @@ a.rmv-btn i {
 }
 
 .main-tabs .nav-tabs .nav-item .nav-link:hover {
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     background: none !important;
     border-bottom: 2px solid #efefef;
     text-decoration: none !important;
@@ -6250,7 +6250,7 @@ a.rmv-btn i {
     font-weight: 600;
     font-family: 'Roboto', sans-serif;
     margin-bottom: 20px !important;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: left;
     line-height: 30px;
 }
@@ -6323,7 +6323,7 @@ a.rmv-btn i {
 .panel-title a {
     font-size: 18px;
     font-weight: 500;
-    color: #3A0CA3;
+    color: #15053a;
     font-family: 'Roboto', sans-serif;
     padding: 15px 0 18px;
     display: block;
@@ -6412,7 +6412,7 @@ a.rmv-btn i {
 }
 
 .prmb_btn:hover {
-    background: #3A0CA3;
+    background: #15053a;
     color: #fff;
 }
 
@@ -6435,7 +6435,7 @@ a.rmv-btn i {
     margin-bottom: 0;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
 }
 
 /* --- Paid Membership Checkout Page --- */
@@ -6463,7 +6463,7 @@ a.rmv-btn i {
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
     margin-bottom: 10px !important;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: left;
     line-height: 26px;
 }
@@ -6493,7 +6493,7 @@ a.rmv-btn i {
 }
 
 .checkout-tabs .nav-tabs .nav-item .nav-link:hover {
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     background: none !important;
     border-bottom: 2px solid #efefef;
     text-decoration: none !important;
@@ -6534,7 +6534,7 @@ a.rmv-btn i {
     font-weight: 400;
     font-family: 'Roboto', sans-serif;
     margin-bottom: 10px !important;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: left;
     display: block;
 }
@@ -6629,7 +6629,7 @@ a.rmv-btn i {
     font-size: 16px;
     font-weight: 600;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     float: left;
     margin-bottom: 0;
     line-height: 24px;
@@ -6676,7 +6676,7 @@ a.rmv-btn i {
 
 .chckot_btn:hover {
     color: #fff !important;
-    background: #3A0CA3;
+    background: #15053a;
 }
 
 .save_address_btn {
@@ -6694,7 +6694,7 @@ a.rmv-btn i {
 
 .save_address_btn:hover {
     color: #fff !important;
-    background: #3A0CA3;
+    background: #15053a;
 }
 
 .address_text {
@@ -6713,7 +6713,7 @@ a.rmv-btn i {
     font-size: 18px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     float: left;
     width: 70%;
     text-align: left;
@@ -6725,7 +6725,7 @@ a.rmv-btn i {
     font-size: 20px;
     font-weight: 600;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     float: left;
     width: 70%;
     text-align: left;
@@ -6737,7 +6737,7 @@ a.rmv-btn i {
     font-size: 20px;
     font-weight: 600;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: right;
     float: right;
     width: 30%;
@@ -6774,12 +6774,12 @@ a.rmv-btn i {
 }
 
 .coming_soon_style {
-    background-color: #3A0CA3 !important;
-    background-image: -moz-radial-gradient(center center, circle cover, #3A0CA3333, #0d1218 100%) !important;
-    background-image: -webkit-radial-gradient(center center, circle cover, #3A0CA3333, #0d1218 100%) !important;
-    background-image: -o-radial-gradient(center center, circle cover, #3A0CA3333, #0d1218 100%) !important;
-    background-image: -ms-radial-gradient(center center, circle cover, #3A0CA3333, #0d1218 100%) !important;
-    background-image: radial-gradient(center center, circle cover, #3A0CA3333, #0d1218 100%) !important;
+    background-color: #15053a !important;
+    background-image: -moz-radial-gradient(center center, circle cover, #15053a333, #0d1218 100%) !important;
+    background-image: -webkit-radial-gradient(center center, circle cover, #15053a333, #0d1218 100%) !important;
+    background-image: -o-radial-gradient(center center, circle cover, #15053a333, #0d1218 100%) !important;
+    background-image: -ms-radial-gradient(center center, circle cover, #15053a333, #0d1218 100%) !important;
+    background-image: radial-gradient(center center, circle cover, #15053a333, #0d1218 100%) !important;
 }
 
 .cmtk_group {
@@ -6856,7 +6856,7 @@ a.rmv-btn i {
     margin-top: 0;
     padding-top: 30px;
     padding-bottom: 30px;
-    border-top: 1px solid #3A0CA3;
+    border-top: 1px solid #15053a;
 }
 
 .tc_footer_left ul li {
@@ -7066,7 +7066,7 @@ a.rmv-btn i {
     font-family: 'Roboto', sans-serif;
     font-style: italic;
     line-height: 26px;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: left;
     margin-bottom: 20px;
 }
@@ -7076,12 +7076,12 @@ a.rmv-btn i {
     font-weight: 400;
     font-family: 'Open Sans', sans-serif;
     line-height: 26px;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: left;
 }
 
 .vew120 .term_link14:hover {
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     text-decoration: underline !important;
 }
 
@@ -7113,7 +7113,7 @@ a.rmv-btn i {
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
     line-height: 26px;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: center;
     margin-top: 24px;
 }
@@ -7179,7 +7179,7 @@ a.rmv-btn i {
 .contact_list_info .cntct_895 {
     float: left;
     width: 35%;
-    color: #3A0CA3;
+    color: #15053a;
     font-weight: 500;
 }
 
@@ -7195,7 +7195,7 @@ a.rmv-btn i {
     float: left;
     width: 100%;
     padding: 80px 0;
-    background: #3A0CA3;
+    background: #15053a;
     position: relative;
 }
 
@@ -7275,7 +7275,7 @@ a.rmv-btn i {
     font-family: 'Roboto', sans-serif;
     margin-bottom: 7px !important;
     text-align: center;
-    color: #3A0CA3;
+    color: #15053a;
     line-height: 26px;
 }
 
@@ -7313,7 +7313,7 @@ a.rmv-btn i {
     box-shadow: none;
     flex: 1;
     float: left;
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     width: 100%;
     font-size: 14px;
     line-height: 26px;
@@ -7333,7 +7333,7 @@ a.rmv-btn i {
     float: left;
     width: 100%;
     position: relative;
-    background: #3A0CA3;
+    background: #15053a;
 }
 
 ._485td5:before {
@@ -7419,7 +7419,7 @@ a.rmv-btn i {
 
 .knowledge_btn:hover {
     color: #fff;
-    background: #3A0CA3;
+    background: #15053a;
 }
 
 /* --- Certification Form Fill Page --- */
@@ -7440,7 +7440,7 @@ a.rmv-btn i {
     font-size: 18px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     margin-top: 35px !important;
     text-align: left;
     line-height: 26px;
@@ -7468,7 +7468,7 @@ a.rmv-btn i {
 .panel-title10 a {
     font-size: 16px;
     font-weight: 500;
-    color: #3A0CA3;
+    color: #15053a;
     font-family: 'Roboto', sans-serif;
     padding: 15px 0 18px;
     display: block;
@@ -7515,7 +7515,7 @@ a.rmv-btn i {
 }
 
 .testtrm145 a:hover {
-    color: #3A0CA3 !important;
+    color: #15053a !important;
     text-decoration: underline !important;
 }
 
@@ -7574,14 +7574,14 @@ a.rmv-btn i {
     font-size: 24px;
     font-weight: 600;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     margin-bottom: 15px;
     text-align: center;
     line-height: 26px;
     height: 100px;
     width: 100px;
     display: inline-block;
-    border: 2px solid #3A0CA3;
+    border: 2px solid #15053a;
     border-radius: 3px;
     padding: 35px 0;
     background: #fff;
@@ -7591,7 +7591,7 @@ a.rmv-btn i {
     font-size: 14px;
     font-weight: 400;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     margin-top: 0;
     text-align: center;
     line-height: 26px;
@@ -7609,7 +7609,7 @@ a.rmv-btn i {
     font-size: 16px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: left;
     line-height: 28px;
     margin-top: 0;
@@ -7644,7 +7644,7 @@ a.rmv-btn i {
 
 .test_submit_btn:hover {
     color: #fff !important;
-    background: #3A0CA3;
+    background: #15053a;
 }
 
 /* --- Certification Test Result --- */
@@ -7728,7 +7728,7 @@ a.rmv-btn i {
     font-size: 18px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     margin-top: 0;
     text-align: center;
     line-height: 26px;
@@ -7750,7 +7750,7 @@ a.rmv-btn i {
 .result_content h2 {
     font-size: 42px;
     font-weight: 600;
-    color: #3A0CA3;
+    color: #15053a;
     font-family: 'Roboto', sans-serif;
     text-align: center;
     padding-bottom: 15px;
@@ -7783,7 +7783,7 @@ a.rmv-btn i {
 
 .download_btn:hover {
     color: #fff !important;
-    background: #3A0CA3;
+    background: #15053a;
 }
 
 /* --- Search Result --- */
@@ -7798,7 +7798,7 @@ a.rmv-btn i {
 
 .rs6t_title {
     font-size: 18px;
-    color: #3A0CA3;
+    color: #15053a;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
     text-align: left;
@@ -7820,7 +7820,7 @@ a.rmv-btn i {
     float: right;
     font-size: 14px;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     font-weight: 400;
 }
 
@@ -7897,12 +7897,12 @@ a.rmv-btn i {
 }
 
 .vdt-list span {
-    color: #3A0CA3;
+    color: #15053a;
     margin-right: 10px;
 }
 
 .invoice_header_main {
-    background: #3A0CA3;
+    background: #15053a;
     float: left;
     width: 100%;
     height: 60px;
@@ -7925,7 +7925,7 @@ a.rmv-btn i {
     font-size: 24px;
     font-weight: 600;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: left;
 }
 
@@ -7939,7 +7939,7 @@ a.rmv-btn i {
     font-size: 18px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-    color: #3A0CA3;
+    color: #15053a;
     text-align: left;
     margin-bottom: 15px;
 }
@@ -7979,7 +7979,7 @@ a.rmv-btn i {
     border-bottom: 1px solid #efefef !important;
     font-size: 14px;
     font-weight: 500;
-    color: #3A0CA3;
+    color: #15053a;
     font-family: 'Roboto', sans-serif;
     padding: 15px 20px;
 }
@@ -8060,7 +8060,7 @@ a.rmv-btn i {
 }
 
 .print_btn:hover {
-    background: #3A0CA3;
+    background: #15053a;
     color: #fff !important;
 }
 
@@ -8096,7 +8096,7 @@ a.rmv-btn i {
 
 .code-apply-btn:hover {
     color: #fff !important;
-    background: #3A0CA3;
+    background: #15053a;
 }
 
 .chck-btn22 {
@@ -8117,7 +8117,7 @@ a.rmv-btn i {
 
 .chck-btn22:hover {
     color: #fff !important;
-    background: #3A0CA3;
+    background: #15053a;
 }
 
 /* --- Night Mode Btn --- */
@@ -8133,7 +8133,7 @@ a.rmv-btn i {
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
     border-radius: 3px;
-    color: #3A0CA3;
+    color: #15053a;
     padding: 15px;
     position: relative;
     display: flex;
