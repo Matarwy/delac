@@ -4,10 +4,10 @@
             <div class="col-12">
                 <div class="back_link">
                     @if(Auth::guard('instructor')->check())
-                    <a href="{{ route('ins-home') }}" class="hde151">{{__('Back To Cursus')}}</a>
+                    <a href="{{ route('ins-home') }}" class="hde151">{{__('Back To Delac')}}</a>
                     <a href="{{ route('ins-home') }}" class="hde152">{{__('Back')}}</a>
                     @else
-                    <a href="{{ url('/') }}" class="hde151">{{__('Back To Cursus')}}</a>
+                    <a href="{{ url('/') }}" class="hde151">{{__('Back To Delac')}}</a>
                     <a href="{{ url('/') }}" class="hde152">{{__('Back')}}</a>
                     @endif
                 </div>

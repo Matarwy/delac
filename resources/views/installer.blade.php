@@ -7,7 +7,7 @@ $api = new LicenseBoxAPI(); // Initialize a new LicenseBoxAPI object
 
 <head>
     <meta charset="utf-8" />
-    <title>Cursus</title>
+    <title>Delac</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ asset('frontend/css/bulma.min.css')}}" />
     <link href="{{ asset('frontend/css/font-awesome.min.css')}}" rel="stylesheet">
@@ -112,7 +112,7 @@ $api = new LicenseBoxAPI(); // Initialize a new LicenseBoxAPI object
         <div class="section">
             <div class="column is-6 is-offset-3">
                 <center>
-                    <h1 class="title">Cursus Installation </h1><br>
+                    <h1 class="title">Delac Installation </h1><br>
                 </center>
                 <div class="box">
                     <?php
@@ -355,7 +355,7 @@ $api = new LicenseBoxAPI(); // Initialize a new LicenseBoxAPI object
                                                 exit;
                                             }
                                             $templine = '';
-                                            $filename = public_path("cursus.sql");
+                                            $filename = public_path("Delac.sql");
                                             $lines = file($filename);
                                             foreach ($lines as $line) {
                                                 if (substr($line, 0, 2) == '--' || $line == '') {
@@ -509,7 +509,7 @@ $api = new LicenseBoxAPI(); // Initialize a new LicenseBoxAPI object
         </div>
     </div>
     <div class="content has-text-centered">
-        <p>© <?php echo date('Y'); ?> Copyright by Cursus.</p><br>
+        <p>© <?php echo date('Y'); ?> Copyright by Delac.</p><br>
     </div>
 </body>
 
