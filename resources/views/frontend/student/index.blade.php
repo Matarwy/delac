@@ -141,7 +141,7 @@ $categorys = \App\Models\Category::whereStatus(1)->inRandomOrder()->limit(5)->ge
             @endif
             <div class="get1452">
                 <h4>{{__('Become an Instructor')}}</h4>
-                <p>{{__('Top instructors from around the world teach millions of students on Cursus. We provide the tools and
+                <p>{{__('Top instructors from around the world teach millions of students on Delac. We provide the tools and
                     skills to teach what you love.')}}</p>
                 <button class="Get_btn" onclick="window.location.href = '{{url('instructor/register')}}';">{{__('Start
                     Teaching')}}</button>
@@ -175,7 +175,7 @@ $categorys = \App\Models\Category::whereStatus(1)->inRandomOrder()->limit(5)->ge
             </div>
             <div class="strttech120">
                 <h4>{{__('Become an Instructor')}}</h4>
-                <p>{{__('Top instructors from around the world teach millions of students on Cursus. We provide the tools and
+                <p>{{__('Top instructors from around the world teach millions of students on Delac. We provide the tools and
                     skills to teach what you love.')}}</p>
                 <button class="Get_btn" onclick="window.location.href = '{{url('instructor/register')}}';">{{__('Start
                     Teaching')}}</button>

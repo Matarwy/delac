@@ -82,7 +82,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="help-block">{{__('Add a professional headline like, "Engineer at
-                                                    Cursus" or "Architect."')}}</div>
+                                                    Delac" or "Architect."')}}</div>
                                                 </div>
                                             </div>
                                             <div class="col-lg-12">
@@ -1607,9 +1607,9 @@
             <div class="tab-pane fade" id="pills-api" role="tabpanel" aria-labelledby="pills-api-tab">
                 <div class="account_setting">
                     <h4>Affiliate API</h4>
-                    <p>The Cursus Affiliate API exposes functionalities of Cursus to help developers build client
-                        applications and integrations with Cursus. <br>To see more details, please visit <a
-                            href="#">Cursus
+                    <p>The Delac Affiliate API exposes functionalities of Delac to help developers build client
+                        applications and integrations with Delac. <br>To see more details, please visit <a
+                            href="#">Delac
                             Affiliate API</a></p>
                 </div>
                 <button class="api_btn">Request Affiliate API Client</button>
